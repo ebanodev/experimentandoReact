@@ -1,4 +1,4 @@
-import '/home/ebano/Documentos/projetos/coding/aprendendoreact/app01/src/App.css'
+import '/home/ebano/Documentos/projetos/coding/aprendendoreact/experimentandoReact/app01/src/App.css'
 
 export default function Dados(props){
     let n1=10
